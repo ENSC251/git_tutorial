@@ -1,3 +1,3 @@
 # git_tutorial
 
-This is a repository for students to practice some git commands
+This is an [introduction to git and GitHub](https://evangeliney.github.io/slides/git_tutorial)
