@@ -5,5 +5,6 @@ using namespace std;
 int main()
 {
 	cout << "Hello!" <<  endl;
-	cout << "Great, you managed to get a copy of the repository from GitHub" <<  endl;
+	cout << "Hi, it's Gurmesh Shergill" <<  endl;
+	cout<< "Welcome To Mac"<< endl;
 }
