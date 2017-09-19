@@ -1,9 +1,11 @@
 #include <iostream>  
 using namespace std; 
 
+//Simone Neufeld
+//301310432
+//simonen@sfu.ca
 	
-int main()
+int main()	
 {
-	cout << "Hello!" <<  endl;
-	cout << "Great, you managed to get a copy of the repository from GitHub" <<  endl;
+	cout << "Simone Neufeld\n";
 }
