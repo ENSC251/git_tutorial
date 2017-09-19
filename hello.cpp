@@ -4,6 +4,8 @@ using namespace std;
 	
 int main()
 {
-	cout << "Hello!" <<  endl;
-	cout << "Great, you managed to get a copy of the repository from GitHub" <<  endl;
+	//George Lertzman-Lepofsky, 301276520
+	//I have modified this code to print my name
+	//19/09/17
+	cout << "George Lertzman-Lepofsky" <<  endl;
 }
