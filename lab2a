@@ -1,0 +1,13 @@
+git config --global user.name "jjcurry"
+git config --global user.email "jjcurry@sfu.ca"
+
+git clone https://github.com/jjcurry/git_tutorial
+cd git_tutorial
+
+git branch
+git checkout -b "jjcurrybranch"
+git branch
+
+make ./hello
+
+git status
