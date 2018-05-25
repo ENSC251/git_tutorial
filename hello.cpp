@@ -1,9 +1,11 @@
 #include <iostream>  
 using namespace std; 
 
+//You have switched to a branch called "ensc251yupeng"
 	
 int main()
 {
-	cout << "Hello!" <<  endl;
-	cout << "Great, you managed to get a copy of the repository from GitHub" <<  endl;
+	cout << "Yupeng is following the GitHub tutorial!" <<  endl;
+	cout << "Great, I managed to get a copy of the repository from GitHub" <<  endl;
+	return 0;
 }
