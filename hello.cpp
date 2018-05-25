@@ -4,6 +4,7 @@ using namespace std;
 	
 int main()
 {
+        // I edited second line to edit my name inside line
 	cout << "Hello!" <<  endl;
-	cout << "Great, you managed to get a copy of the repository from GitHub" <<  endl;
+        cout << "This is Manmeet Singh who copied the repository from GitHub";
 }
